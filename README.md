@@ -55,18 +55,10 @@ IR-TD merges and re-annotates images from diverse open datasets, covering:
 
 Unaligned visible-infrared pairs are processed with semantic cropping to ensure cross-modal alignment.
 
-### Annotation Examples
+### Download
 
-```json
-{
-  "description": "A nighttime street with several parked cars and a streetlight. No visible people.",
-  "qa_pairs": [
-    {"question": "How many cars are present?", "answer": "3"},
-    {"question": "Is it daytime or nighttime?", "answer": "Nighttime"}
-  ],
-  "bounding_boxes": [
-    {"category": "car", "bbox": [x1, y1, x2, y2]}
-  ],
-  "scene": "urban"
-}
+The IR-TD dataset is available for academic research use only.  
+Please choose the appropriate mirror:
 
+- **[Google Drive Download (Global)](https://drive.google.com/your-link-here)**
+- **[Baidu Netdisk Download (China Mainland)](https://pan.baidu.com/your-link-here) 提取码: xxxx**
