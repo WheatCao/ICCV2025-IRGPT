@@ -1,6 +1,4 @@
-# ICCV2025-IRGPT
-
-# IRGPT: A Large-scale Real-world Infrared Image Dataset
+# [ICCV2025] IRGPT: A Large-scale Real-world Infrared Image Dataset
 
 Welcome to the official repository of the IRGPT dataset, introduced in our ICCV 2025 paper:  
 **"IRGPT: Understanding Real-world Infrared Image with Bi-cross-modal Curriculum on Large-scale Benchmark"**
