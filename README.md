@@ -57,8 +57,33 @@ Unaligned visible-infrared pairs are processed with semantic cropping to ensure 
 
 ### Download
 
-The IR-TD dataset is available for academic research use only.  
-Please choose the appropriate mirror:
+## 📦 Early Access Version
 
-- **[Google Drive Download (Global)](https://drive.google.com/your-link-here)**
-- **[Baidu Netdisk Download (China Mainland)](https://pan.baidu.com/your-link-here) 提取码: xxxx**
+To enable researchers to quickly explore and experiment with the dataset, we have released an **early version** containing some of the most highly requested samples.
+
+- ✅ Includes **80,000+ images**
+- 🧠 Primarily generated using **LLM-based methods**
+- 🚀 Aimed at providing the community with early access and faster iteration
+
+This release is intended for academic research use only. Feedback is welcome as we continue to improve and expand the dataset.
+
+
+- **[Google Drive Download (Global)](https://drive.google.com/drive/folders/10AQ0nZ6V3mdRvTtXW3XbKKSGOs37dS0W?usp=sharing)**
+- **[Baidu Netdisk Download (China Mainland)](https://pan.baidu.com/s/13mM8OTGza__4YiCgo2TqlA?pwd=IRTD) 提取码: IRTD**
+
+## 📢 Full Dataset Coming Soon
+
+The complete IR-TD dataset is under preparation and will be released soon. It will feature more samples, richer annotations, and broader coverage.  
+Thank you for your patience and stay tuned!
+
+
+### Citation
+If you find this dataset helpful in your research, please consider citing our paper:
+
+```bibtex
+@article{cao2025irgpt,
+  title={IRGPT: Understanding Real-world Infrared Image with Bi-cross-modal Curriculum on Large-scale Benchmark},
+  author={Cao, Zhe and Zhang, Jin and Zhang, Ruiheng},
+  journal={arXiv preprint arXiv:2507.14449},
+  year={2025}
+}
