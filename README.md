@@ -71,10 +71,11 @@ This release is intended for academic research use only. Feedback is welcome as 
 - **[Google Drive Download (Global)](https://drive.google.com/drive/folders/10AQ0nZ6V3mdRvTtXW3XbKKSGOs37dS0W?usp=sharing)**
 - **[Baidu Netdisk Download (China Mainland)](https://pan.baidu.com/s/13mM8OTGza__4YiCgo2TqlA?pwd=IRTD) 提取码: IRTD**
 
-## 📢 Full Dataset Coming Soon
+## 📢 Full Dataset
+The text description of the data has been uploaded to ICCV2025-IRGPT/json_sft/json_sft.zip
+Due to the large scale of the data, we are unable to upload it. Since most of them are public datasets, we suggest that you download them by yourself. Due to copyright and other reasons, we can not upload some small-scale datasets now (Such as 27, 32-50). You can now block this part of the content when using the dataset.
 
-The complete IR-TD dataset is under preparation and will be released soon. It will feature more samples, richer annotations, and broader coverage.  
-Thank you for your patience and stay tuned!
+
 
 
 ### Citation
