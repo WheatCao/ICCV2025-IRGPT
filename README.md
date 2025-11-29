@@ -61,8 +61,8 @@ Unaligned visible-infrared pairs are processed with semantic cropping to ensure 
 
 To enable researchers to quickly explore and experiment with the dataset, we have released an **early version** containing some of the most highly requested samples.
 
-- ✅ Includes **80,000+ images**
-- 🧠 Primarily generated using **LLM-based methods**
+- 🚀 Includes **80,000+ images**
+- 🚀 Primarily generated using **LLM-based methods**
 - 🚀 Aimed at providing the community with early access and faster iteration
 
 This release is intended for academic research use only. Feedback is welcome as we continue to improve and expand the dataset.
@@ -75,8 +75,8 @@ This release is intended for academic research use only. Feedback is welcome as 
 The text description of the data has been uploaded to ICCV2025-IRGPT/json_sft/json_sft.zip
 Due to the large scale of the data, we are unable to upload it. Since most of them are public datasets, we suggest that you download them by yourself. Due to copyright and other reasons, we can not upload some small-scale datasets now (Such as 27, 32-50). You can now block this part of the content when using the dataset.
 
-
-
+** ✅ Model Weight
+- **[Google Drive Download (Global)](https://drive.google.com/drive/folders/1h0ZRCnJSR7qh5ZW-DtOZliieLH-CsT_3?usp=sharing)**
 
 ### Citation
 If you find this dataset helpful in your research, please consider citing our paper:
