@@ -78,7 +78,7 @@ Due to the large scale of the data, we are unable to upload it. Since most of th
 ## ✅ Model Weight
 Due to unknown reasons, Google Netdisk is temporarily unavailable. We have updated the link to Baidu Netdisk
 
-- **[Baidu Netdisk Download](https://pan.baidu.com/s/1TS50ymKxnL5rLd9JyEs2Mg?pwd=3ya8) 
+- **[Baidu Netdisk Download](https://pan.baidu.com/s/1TS50ymKxnL5rLd9JyEs2Mg?pwd=3ya8)**
 
 ### Citation
 If you find this dataset helpful in your research, please consider citing our paper:
