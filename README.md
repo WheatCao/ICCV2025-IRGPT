@@ -77,6 +77,7 @@ Due to the large scale of the data, we are unable to upload it. Since most of th
 
 ## ✅ Model Weight
 - **[Google Drive Download (Global)](https://drive.google.com/drive/folders/1h0ZRCnJSR7qh5ZW-DtOZliieLH-CsT_3?usp=drive_link)**
+
 Due to unknown reasons, Google Netdisk is temporarily unavailable. We have updated the link to Baidu Netdisk
 
 - **[Baidu Netdisk Download](https://pan.baidu.com/s/1TS50ymKxnL5rLd9JyEs2Mg?pwd=3ya8)**
