@@ -76,6 +76,7 @@ The text description of the data has been uploaded to ICCV2025-IRGPT/json_sft/js
 Due to the large scale of the data, we are unable to upload it. Since most of them are public datasets, we suggest that you download them by yourself. Due to copyright and other reasons, we can not upload some small-scale datasets now (Such as 27, 32-50). You can now block this part of the content when using the dataset.
 
 ## ✅ Model Weight
+- **[Google Drive Download (Global)](https://drive.google.com/drive/folders/1h0ZRCnJSR7qh5ZW-DtOZliieLH-CsT_3?usp=drive_link)**
 Due to unknown reasons, Google Netdisk is temporarily unavailable. We have updated the link to Baidu Netdisk
 
 - **[Baidu Netdisk Download](https://pan.baidu.com/s/1TS50ymKxnL5rLd9JyEs2Mg?pwd=3ya8)**
