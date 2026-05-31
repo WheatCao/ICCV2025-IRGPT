@@ -3,6 +3,19 @@
 > This document summarizes the sources, download methods, and basic information for all datasets involved in this project.
 > Datasets are listed in index order as defined in `source_datasets.md`.
 
+## 📦 Additional Resources: ReID Data & Raw JSON Files
+
+We have packaged the **ReID-related data** along with some **original JSON files** from the dataset construction process into a single archive for easier access and reproduction.
+
+### 📥 Download (Baidu Netdisk)
+
+- **Link**: https://pan.baidu.com/s/1Gdflng8-mU-qeUwRuMcLZg?pwd=TRAW
+- **Extraction Code**: `TRAW`
+
+### 📦 Included Contents
+- `reid_datasets.zip`: ReID subset images and annotations
+- `raw_jsons`: Original JSON files used during data curation
+
 ---
 
 ## Datasets by Index
